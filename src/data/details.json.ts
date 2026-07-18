@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: LicenseRef-Proprietary
+// Copyright (c) 2026 Shen Nan. All rights reserved.
+
 export interface Template {
   link: string;
   title: string;

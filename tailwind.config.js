@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: LicenseRef-Proprietary
+// Copyright (c) 2026 Shen Nan. All rights reserved.
+
 /** @type {import('tailwindcss').Config} */
 
 export default {
